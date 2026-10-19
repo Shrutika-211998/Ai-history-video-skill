@@ -53,3 +53,7 @@ A reusable skill for generating AI history video prompts for YouTube channels fo
 ---
 
 *Created by Shrutika Shripat | Ahilyanagar, Maharashtra*
+
+## Code-aware status
+
+This repository contains a reusable `SKILL.md` for an AI history-video workflow. It is documentation/instructions rather than a standalone application; no executable application or test suite is included. Completeness as a skill package: documentation present, runtime implementation not applicable.
